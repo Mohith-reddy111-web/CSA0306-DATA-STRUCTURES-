@@ -1,0 +1,8 @@
+{
+  "name": "ChennaiRoute — Traffic Navigation & Graph Route Optimizer",
+  "description": "Intelligent traffic navigation and route optimization system powered by Dijkstra's shortest path algorithm, interactive OpenStreetMap visualization, and simulated congestion analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
